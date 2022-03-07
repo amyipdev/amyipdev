@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amyipdev/amyipdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">✨ AmyIP's GitHub ✨</h2>
+
+I see you've found my GitHub page. Welcome into a world of code, dreams, and new ideas.
+
+_About Me_: I'm Amy, a college sophomore and high school freshy. I'm currently majoring in Computer Science and am aiming to transfer to a four-year shortly. My pronouns are she/her. I'm from California and currently working on a variety of projects.
+
+Want to see a great physics engine and backend that couldn't get tied together in time? Head on over to [New New Super Mario Bros II+](https://github.com/amyipdev/codejamteam2)!
